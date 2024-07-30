@@ -1,0 +1,3 @@
+[submodule "OtusTeam/git101-sub"]
+	path = git101-sub
+	url = https://github.com/otus101/git101-sub
