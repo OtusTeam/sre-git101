@@ -135,3 +135,7 @@ git fetch origin
 git reset --hard origin/main
 ```
 
+В соответствии с ДЗ добавлено имя
+```
+Иван
+```
